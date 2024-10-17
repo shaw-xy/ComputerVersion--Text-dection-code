@@ -1,7 +1,5 @@
-Cash Image Text Detection
+This is a text detection code
 
-
-This repository contains Python code for detecting text in an image of cash.
 
 Overview
 
