@@ -34,4 +34,6 @@ Usage：
 
 
 Most of all
+
+
 Make sure to have Tesseract installed and configured properly for text recognition. Also, ensure that the EAST text detector model is accessible at the specified path.
